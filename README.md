@@ -10,4 +10,6 @@ Lägger till en rad här av Sebastian
 
 lägger till ännu en rad av Sebastian
 
-lägger till en konfliktrad av Andreas
+lägger till tredje rad av Sebastian
+
+lägger till en fjärde rad av Sebastian
