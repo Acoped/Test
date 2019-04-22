@@ -6,6 +6,6 @@ En ny rad
 
 Ytterligare en rad
 
-Lägger till en rad här av sebastian
+Lägger till en rad här av Sebastian
 
-lägger till ännu en rad av sebastian
+lägger till ännu en rad av Sebastian
